@@ -1,0 +1,11 @@
+/* added basic to css sheet */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+/* added border around h1 and h2 since bootstrap isn't working */
+/* h1, */
+/* h2 { */
+/* border: solid red; */
+/* } */
